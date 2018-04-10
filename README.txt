@@ -1,6 +1,6 @@
 The Aezlo Editor
 
-*built with python
+*built with c++ 
 
 *read more at its page
  
