@@ -1,5 +1,6 @@
 The Aezlo Editor
- ────────
+
+────────
 
 *built with c#
 
@@ -8,6 +9,7 @@ The Aezlo Editor
 http://athelo.net/aezlo_editor
 
 Creators
+
 ────────
 
 * aezloman, @aezloman
@@ -18,4 +20,7 @@ Creators
 
 
 Details
+
 ────────
+
+A text editor by @aezloX
