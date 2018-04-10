@@ -1,7 +1,21 @@
 The Aezlo Editor
+ ────────
 
-*built with c++ 
+*built with c#
 
 *read more at its page
  
- * http://athelo.net/aezlo_editor
+http://athelo.net/aezlo_editor
+
+Creators
+────────
+
+* aezloman, @aezloman
+
+* aezloX
+
+* zzzio
+
+
+Details
+────────
